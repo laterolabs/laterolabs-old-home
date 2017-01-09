@@ -426,3 +426,13 @@ p.paragraph {
 p.paragraph-list a {
 	color: black;
 }
+p.paragraph-list a:visited {
+	color: black;
+}
+
+li {
+	color: #960000;
+}
+p {
+	color: black;
+}
