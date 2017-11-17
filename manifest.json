@@ -1,0 +1,27 @@
+{
+  "short_name": "Panago",
+  "name": "Panago",
+  "icons": [
+    {
+      "src": "ic_launcher-1x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "ic_launcher-2x.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "ic_launcher-4x.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "related_applications": [
+    {
+    "platform": "play",
+    "id": "com.panagomobile"
+    }
+  ]
+}
