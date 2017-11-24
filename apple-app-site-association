@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "1213467080.com.laterolabs.client",
+        "paths": [ "*"]
+      }
+    ]
+  }
+}
